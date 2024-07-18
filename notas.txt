@@ -1,2 +1,0 @@
-comandos:
-    python manage.py startapp nomedoapp -> cria um app Django
